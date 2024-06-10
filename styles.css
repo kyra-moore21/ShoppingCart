@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+.cute-title {
+    font-family: 'Pacifico', cursive;
+    color: rgb(255, 182, 193); /* Light Pink */
+    
+}
+.cute-subtitle {
+    font-size: 1.2em;
+    color: rgb(228, 150, 228); /* Lavender Blush */
+}
+.cute-header {
+    font-family: 'Pacifico', cursive;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+.bg-custom{
+    background-color: rgb(226, 170, 179) !important;
+    border: none;
+}
+.btn-custom{
+    font-family: 'Lato', sans-serif;
+    background-color: rgb(77, 73, 75);
+}
+.card-img-top {
+    height: 300px;
+    object-fit: contain;
+    padding-top: 10px;
+}
